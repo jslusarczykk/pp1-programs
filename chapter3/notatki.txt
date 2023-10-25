@@ -1,0 +1,7 @@
+(zad22)pytanie o ostatnią literę if name.endswith("a"):
+zad24 wrocic
+zad27 if ean_number[:3] == '590': x[:3]-od 1 do 3 znaku i ''przy == 
+zad30 hours, minutes = time_24.split(":") [16:32] - deklaracja czasu
+zad30 przy zamianie 24 na 12 hours_12 = hours % 12
+zad33 - alternatywa?
+zad34 - nie wiem XDDD xpp XD:?
